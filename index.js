@@ -303,3 +303,6 @@ const corgi = new Dog('Corgi','black' , 3)
 
 corgi.getWeight()
 corgi.getColorSkin()
+
+
+const demoFeature = () => {};
