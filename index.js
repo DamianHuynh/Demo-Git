@@ -305,3 +305,5 @@ corgi.getWeight()
 corgi.getColorSkin()
 const demoFeature = () => {};
 const demoFeature = () => {};
+corgi.getColorSkin()
+corgi.getColorSkin()
